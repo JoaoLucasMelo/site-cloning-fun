@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+p1 {
+    font-family: 'Montserrat', sans-serif; 
+    text-align: center;
+    color: white;
+    text-shadow: 3px 3px 7px rgb(0, 0, 0);
+}
+
+bg1 {
+    background-color: rgb(136, 136, 136);
+
+}
+
+@media only screen and (max-width: 768px) {
+    .card-size {
+        padding-bottom: 2.5em;
+        padding-right: 2.5em;
+        padding-left: 2.5em;
+    }
+}
